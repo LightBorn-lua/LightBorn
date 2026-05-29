@@ -28,7 +28,7 @@ export default defineConfig({
       ],
       social: [
         {
-          href: "https://github.com/LightBorn-lua/LightBorn",
+          href: "https://github.com/LightBorn-lua",
           icon: "github",
           label: "GitHub",
         },
