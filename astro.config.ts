@@ -8,7 +8,7 @@ export default defineConfig({
       title: "LightBorn",
       favicon: "/favicon.svg",
       editLink: {
-        baseUrl: "https://github.com/LightBorn-lua/LightBorn/edit/docs/src/",
+        baseUrl: "https://github.com/LightBorn-lua/LightBorn/edit/main/src/",
       },
       tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 4 },
       plugins: [starlightThemeGalaxy()],
