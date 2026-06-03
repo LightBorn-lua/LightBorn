@@ -51,7 +51,7 @@ Inside of your `Lights` Model, create a `Part` *(anchor it too)* and add the tag
 1. Add a `String Attribute` to said part named **"Type"**
 2. Set this attribute to **"Part"**
 
-there are **multiple types to choose from**, read about it [here](https://example.com).
+there are **multiple types to choose from**, read about it here *(not ready yet sorry !)*.
 
 ***For the sake of this guide, we will be using the Part type.***
 
